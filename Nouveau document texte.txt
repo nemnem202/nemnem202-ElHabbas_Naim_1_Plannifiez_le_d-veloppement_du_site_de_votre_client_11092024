@@ -1,0 +1,3 @@
+Devrais-je chhoisir l'hébergement?
+
+Sur le kanban, dois-je mettre les phases préliminaires au projet? (création de la maquete sur Figma par exemple)
